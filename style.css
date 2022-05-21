@@ -1,0 +1,64 @@
+.one{
+    padding-left: 300px;
+    padding-bottom: 60px;
+}
+.a{
+    font-family: franklin gothic medium;
+    font-size: 35px;
+    color:rgb(17, 168, 161);
+}
+.b{
+    font-size: 25px;
+    font-family: franklin gothic medium;
+    color:rgb(187, 236, 8);
+}
+.c{
+    font-family: arial;
+    color:dimgray;
+}
+.d{
+    color: white;
+    font-family: franklin gothic medium;
+    font-size: 35px;
+}
+.x{
+    color: white;
+    font-family: arial;
+    font-size: 30px;
+}
+.e{
+    font-family: arial;
+    color: white;
+}
+.f{
+    color: white;
+    font-size: 15px;
+}
+.y{
+    border: 2px solid black;
+    padding: 15px 90px 15px 90px;
+    background-color: greenyellow;
+}
+.g{
+    font-family: helvetica;
+    color: white;
+    line-height: 6px;
+}
+.two{
+    width: 552px;
+    float: left;
+    background-color: rgb(9, 176, 176);
+    height: 600px;
+    padding-left: 100px;
+}
+.three{
+    width: 485px;
+    height: 600px;
+    float: right;
+    background-color:rgb(50, 128, 79);
+    padding-left: 110px;
+}
+h1{
+    color: aqua;
+    background-color: black;
+}
